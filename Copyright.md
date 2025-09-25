@@ -1,1 +1,1 @@
-its CoolyDucks Copyright bruh do not Stolen
+its CoolyDucks Copyright bruh do not Stolen it 
