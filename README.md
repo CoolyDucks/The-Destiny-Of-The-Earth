@@ -14,21 +14,19 @@ In this game, you pilot a spacecraft navigating through space, aiming to protect
 - **Speed Boost**: Activate the speed boost for faster gameplay.
 - **Language Toggle**: Switch between English and Arabic using the language button.
 
-## 🛠️ Game Engine
-
-This game is powered by the **LabCode engine**, a lightweight and efficient game engine designed for 2D pixel games. You can explore and modify the engine by opening the `LabCode.html` file.
 
 ## 📂 Project Files
 
-- `Density.html`: The main game file.
-- `LabCode.html`: The game engine file.
+- `main.html`: The main game file.
 - `README.md`: This documentation file.
-- `Copyright.txt`: Copyright and licensing information.
-- `OpenCode`: Original Code but Open.
+- `Copyright.md`: Copyright and licensing information.
+- `OpenCode.js`: Original Code but Open for mods hehe.
+- `credit.md`: Credits of Game.
+- `Project Link.txt`:Link of That Repo.
 
 ## 📄 License
 
-Please refer to the `Copyright.txt` file for licensing details.
+Please refer to the `Copyright.md` file for licensing details.
 
 ## 💬 Feedback
 
@@ -38,6 +36,11 @@ Feel free to provide feedback or contribute to the project. Your input is valuab
 
 - [GitHub Repository](https://github.com/CoolyDucks/The-Density-of-The-Earth-)
 
+- ## Some Things in V1
+
+- i will fixs lags in 1.5
+
 ## Versions in IceDrive Cloud
 
-- Sorry 😐 Game Not Complete Need To wait
+- Versions is Down
+- [V1](https://icedrive.net/s/t9TaxVA6f5yDQ5gWRgkWkDwRX3Qi)
