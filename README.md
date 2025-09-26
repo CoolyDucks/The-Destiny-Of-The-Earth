@@ -1,6 +1,6 @@
 # 🚀 The Destiny of The Earth
 
-**A pixelated space adventure game built with LabCode engine**
+**A pixelated space adventure game**
 
 ## 🎮 About the Game
 
